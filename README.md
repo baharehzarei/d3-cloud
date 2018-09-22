@@ -9,7 +9,7 @@ demonstration along with implementation details.
 
 ![Example cloud of Twitter search results for “amazing”](http://www.jasondavies.com/wordcloud/amazing.png)
 
-## Usage
+ Usage
 
 See the samples in `examples/`.
 
